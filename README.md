@@ -56,7 +56,7 @@ Analytics Vidhya.
   - Read the blog post on [NLP-Imagenet](http://ruder.io/nlp-imagenet/) by Sebastian Ruder
   - Read the blog post on [Generalized Language Models](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html) by Lilian Weng.
   - Watch Siraj Raval's video [How to Build a Biomedical Startup](https://www.youtube.com/watch?v=J9kbZ5I8gdM) on Youtube
-  - [Transfer learning with BERT/GPT-2/ELMO](http://jalammar.github.io/illustrated-bert/)  by Jay Alammar
+  - Read [Transfer learning with BERT/GPT-2/ELMO](http://jalammar.github.io/illustrated-bert/)  by Jay Alammar
  - #### Assignment
    - Try and Replicate my Project [TextBrain:-Building an AI startup using Natural Language Processing](https://github.com/soumyadip1995/TextBrain---Building-an-AI-start-up-using-NLP)
    - Play with [Hugging Face:Pytorch Transformers](https://github.com/huggingface/pytorch-pretrained-BERT#examples) pick 2 models, use it for one of 9 Down-Stream tasks, compare their results.
