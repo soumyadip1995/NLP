@@ -21,7 +21,7 @@ Analytics Vidhya.
 ###  Word Embeddings in Natural Language Processing
 - #### Embedding Layers, Word2vec, GloVe
   - Read the Blog Post on [A Gentle Introduction to Statistical Language Modeling and Neural Language Models](https://machinelearningmastery.com/statistical-language-modeling-and-neural-language-models/) by Machine Learning Mastery.
-  - Read the Material on [Word2Vec Tutorial - The Skip-Gram Model]() by Stanford.edu CS224N
+  - Read the Material on [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) by Stanford.edu CS224N
      - Read the paper titled [Efficient Estimation of Word Representations in Vector Space](https://www.scihive.org/paper/1301.3781)
   - Read the Material on [GloVe: Global Vectors for Word Representation ](http://nlp.stanford.edu/pubs/glove.pdf) by Stanford.edu CS224N
   - Read my blog post on Word-Embeddings [here](https://soumyadip1995.blogspot.com/2019/05/natural-language-processing-word.html)
