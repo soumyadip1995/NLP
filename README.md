@@ -33,7 +33,7 @@ Analytics Vidhya.
  ## Week 3
  ### Lexicons and Language Models (Pre-Deep Learning)
  - #### Lexicons and Pre-deep learning Statistical Language model pre-deep learning ( Hidden Markov Models, Topic Modeling with Latent Dirichlet Allocation)
-   - Read the materials by [CSEP 517: Natural Language Processing:-University of Washington, Spring 2017](https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture1.pdf). Read the Lectures from Text Classifiers to Machine Translation(Lectures 2 to 6).
+   - Read the materials by [CSEP 517: Natural Language Processing:-University of Washington, Spring 2017](https://courses.cs.washington.edu/courses/csep517/17sp/). Read the Lectures from Text Classifiers to Machine Translation(Lectures 2 to 6).
    -  Read [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d) by Lettier.
    -  Watch the video on [Topic Modeling with LDA](https://www.youtube.com/watch?v=ZgyA1Q2ywbM) on Youtube
  - #### Assignment
