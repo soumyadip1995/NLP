@@ -1,8 +1,11 @@
-# Natural-Language-Processing-in-5-weeks
+## Natural-Language-Processing-in-5-weeks
+[![Python 3.6+](https://img.shields.io/badge/Python%20-3.6%2B-orange)](https://www.python.org/downloads/) [![CRAN/METACRAN](https://img.shields.io/cran/l/devtools?style=plastic)](https://github.com/soumyadip1995/Natural_Language_Processing_in_5_weeks/blob/master/LICENSE)
+[![Build with PyTorch](https://img.shields.io/badge/Build%20with-PyTorch-red)](https://pytorch.org/)
 
-## Week 1
+
+### Week 1
 ### Text Preprocessing Techniques and Basics for NLP
-- #### Regularization, Text Normalization, stemming, lemmatiziation, tokenization and other basics of NLP.
+- ##### Regularization, Text Normalization, stemming, lemmatiziation, tokenization and other basics of NLP.
    - Watch the [videos](https://www.youtube.com/watch?v=hyT-BzLyVdU&list=PLDcmCgguL9rxTEz1Rsy6x5NhlBjI8z3Gz) from video 1 to 13 by
 TO courses on YouTube.
    - Read the [2nd chapter](https://web.stanford.edu/~jurafsky/slp3/) on Regularization, Text Normalization and Edit Distance by
@@ -12,7 +15,7 @@ Analytics Vidhya.
    - Read my blog post on [Natural Language Processing:-A Beginner's Introduction](https://soumyadip1995.blogspot.com/2019/05/natural-language-processing-beginners.html)
      - See my [Jupyter NoteBook on the Beginner's introduction](https://github.com/soumyadip1995/NLP/blob/master/Natural_language_processing_A_beginner's_introduction.ipynb) for the code.
 
- - #### Assignment
+ - ##### Assignment
    - Look at the Notebooks 1-1 to 3-4 and 8-2 in the [Week 1 Assignment NoteBooks](https://github.com/soumyadip1995/Natural_Language_Processing_in_5_weeks/tree/master/Week%201%20Assignment%20NoteBooks)
    - Then use NLTK to perform stemming, lemmatiziation, tokenization, stopword removal on a dataset of your choice.
        
