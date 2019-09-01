@@ -1,7 +1,7 @@
 # Natural-Language-Processing-in-5-weeks
 
 ## Week 1
-### Text Precopressing Techniques and Basics for NLP
+### Text Preprocessing Techniques and Basics for NLP
 - #### Regularization, Text Normalization, stemming, lemmatiziation, tokenization and other basics of NLP.
    - Watch the [videos](https://www.youtube.com/watch?v=hyT-BzLyVdU&list=PLDcmCgguL9rxTEz1Rsy6x5NhlBjI8z3Gz) from video 1 to 13 by
 TO courses on YouTube.
@@ -46,7 +46,7 @@ Analytics Vidhya.
   - Read the blog post on [DSSM (Deep Semantic Similarity Model) - Building in TensorFlow](https://kishorepv.github.io/DSSM/) by Kishore P.V.
   - Read Chapter 10- Sequence Modeling, Recurrent and Recursive Nets  of the [Deep-Learning book by Ian Goodfellow](https://github.com/soumyadip1995/deep-learning-by-ian-goodfellow-full-pdf/blob/master/deeplearningbook.pdf)
 - #### Assignment
-  - 3 Assignments, create a translator and a summarizer. All sequence to sequence models. In pytorch.
+  - 3 Assignments, create a translator and a summarizer. All sequence to sequence models. In PyTorch.
 
 ## Week 5
 ### Dialog Systems and Transfer Learning
