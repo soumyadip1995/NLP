@@ -13,7 +13,7 @@ Analytics Vidhya.
      - See my [Jupyter NoteBook on the Beginner's introduction](https://github.com/soumyadip1995/NLP/blob/master/Natural_language_processing_A_beginner's_introduction.ipynb) for the code.
 
  - #### Assignment
-   - Look at the Notebooks 1-1 to 3-4 and 8-2 
+   - Look at the Notebooks 1-1 to 3-4 and 8-2 in the [Week 1 Assignment NoteBooks](https://github.com/soumyadip1995/Natural_Language_Processing_in_5_weeks/tree/master/Week%201%20Assignment%20NoteBooks)
    - Then use NLTK to perform stemming, lemmatiziation, tokenization, stopword removal on a dataset of your choice.
        
        
@@ -37,7 +37,7 @@ Analytics Vidhya.
    -  Read [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d) by Lettier.
    -  Watch the video on [Topic Modeling with LDA](https://www.youtube.com/watch?v=ZgyA1Q2ywbM) on Youtube
  - #### Assignment
-   - Build Hidden Markov Model for Weather Prediction in PyTorch
+   - Build Hidden Markov Model for Weather Prediction in PyTorch from [Week 3 Assignment code](https://github.com/soumyadip1995/Natural_Language_Processing_in_5_weeks/tree/master/Week%203%20Assignment%20code)
 
 ## Week 4
 ### Deep Sequence Models
@@ -56,7 +56,7 @@ Analytics Vidhya.
   - Read the blog post on [NLP-Imagenet](http://ruder.io/nlp-imagenet/) by Sebastian Ruder
   - Read the blog post on [Generalized Language Models](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html) by Lilian Weng.
   - Watch Siraj Raval's video [How to Build a Biomedical Startup](https://www.youtube.com/watch?v=J9kbZ5I8gdM) on Youtube
-  - Transfer learning with BERT/GPT-2/ELMO
+  - [Transfer learning with BERT/GPT-2/ELMO](http://jalammar.github.io/illustrated-bert/)  by Jay Alammar
  - #### Assignment
    - Try and Replicate my Project [TextBrain:-Building an AI startup using Natural Language Processing](https://github.com/soumyadip1995/TextBrain---Building-an-AI-start-up-using-NLP)
    - Play with [Hugging Face:Pytorch Transformers](https://github.com/huggingface/pytorch-pretrained-BERT#examples) pick 2 models, use it for one of 9 Down-Stream tasks, compare their results.
