@@ -1,5 +1,5 @@
 ## Natural-Language-Processing-in-5-weeks
-[![Python 3.6+](https://img.shields.io/badge/Python%20-3.6%2B-orange)](https://www.python.org/downloads/) [![CRAN/METACRAN](https://img.shields.io/cran/l/devtools?style=plastic)](https://github.com/soumyadip1995/Natural_Language_Processing_in_5_weeks/blob/master/LICENSE)
+[![Python 3.6+](https://img.shields.io/badge/Python%20-3.6%2B-orange)](https://www.python.org/downloads/)
 [![Build with PyTorch](https://img.shields.io/badge/Build%20with-PyTorch-red)](https://pytorch.org/)
 
 
