@@ -16,8 +16,7 @@ Analytics Vidhya.
      - See my [Jupyter NoteBook on the Beginner's introduction](https://github.com/soumyadip1995/NLP/blob/master/Natural_language_processing_A_beginner's_introduction.ipynb) for the code.
 
  - ##### Assignment
-   - Look at the Notebooks 1-1 to 3-4 and 8-2 in the [Week 1 Assignment NoteBooks](https://github.com/soumyadip1995/Natural_Language_Processing_in_5_weeks/tree/master/Week%201%20Assignment%20NoteBooks)
-   - Then use NLTK to perform stemming, lemmatiziation, tokenization, stopword removal on a dataset of your choice.
+   - Use NLTK to perform stemming, lemmatiziation, tokenization, stopword removal on a dataset of your choice.
        
        
 ### Week 2
