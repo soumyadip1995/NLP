@@ -38,8 +38,7 @@ Analytics Vidhya.
    - Read the materials by [CSEP 517: Natural Language Processing:-University of Washington, Spring 2017](https://courses.cs.washington.edu/courses/csep517/17sp/). Read the Lectures from Text Classifiers to Machine Translation(Lectures 2 to 6).
    -  Read [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d) by Lettier.
    -  Watch the video on [Topic Modeling with LDA](https://www.youtube.com/watch?v=ZgyA1Q2ywbM) on Youtube
- - #### Assignment
-   - Build Hidden Markov Model for Weather Prediction in PyTorch from [Week 3 Assignment code](https://github.com/soumyadip1995/Natural_Language_Processing_in_5_weeks/tree/master/Week%203%20Assignment%20code)
+ 
 
 ### Week 4
 #### Deep Sequence Models
