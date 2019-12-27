@@ -26,7 +26,7 @@ Analytics Vidhya.
   - Read the Material on [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) by Stanford.edu CS224N
      - Read the paper titled [Efficient Estimation of Word Representations in Vector Space](https://www.scihive.org/paper/1301.3781)
   - Read the Material on [GloVe: Global Vectors for Word Representation ](http://nlp.stanford.edu/pubs/glove.pdf) by Stanford.edu CS224N
-  - Read my blog post on Word-Embeddings [here](https://soumyadip1995.blogspot.com/2019/05/natural-language-processing-word.html)
+  
     - See my [Jupyter Notebook on Word Embeddings](https://github.com/soumyadip1995/NLP/blob/master/NLP_word_embeddings.ipynb) for the code
   
 - ##### Assignment
