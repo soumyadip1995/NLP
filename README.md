@@ -61,3 +61,6 @@ Analytics Vidhya.
  - ##### Assignment
    - Try and Replicate my Project [TextBrain:-Building an AI startup using Natural Language Processing](https://github.com/soumyadip1995/TextBrain---Building-an-AI-start-up-using-NLP)
    - Play with [Hugging Face:Pytorch Transformers](https://github.com/huggingface/pytorch-pretrained-BERT#examples) pick 2 models, use it for one of 9 Down-Stream tasks, compare their results.
+
+
+For more resources visit [here](https://github.com/graykode/nlp-tutorial)
